@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00599C"/>
+      <stop offset="55%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#41CD52"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <path d="M0,210 C200,160 400,250 600,205 C800,160 1000,245 1200,195 L1200,280 L0,280 Z" fill="url(#wave)"/>
+  <path d="M0,240 C250,200 450,265 700,230 C900,205 1050,255 1200,235 L1200,280 L0,280 Z" fill="#ffffff" opacity="0.08"/>
+  <circle cx="1080" cy="70" r="46" fill="#ffffff" opacity="0.10"/>
+  <circle cx="1010" cy="110" r="20" fill="#ffffff" opacity="0.10"/>
+  <text x="600" y="118" text-anchor="middle" font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Welcome to my GitHub</text>
+  <text x="600" y="172" text-anchor="middle" font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif" font-size="24" fill="#ffffff" opacity="0.92">C++ / Qt 嵌入式开发 · 音视频 · 多线程 · 网络协议</text>
+</svg>

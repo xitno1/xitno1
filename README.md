@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20my%20GitHub&fontSize=44&fontColor=ffffff&color=0:41CD52,50:0EA5E9,100:00599C&animation=fadeIn&fontAlignY=36&desc=C%2B%2B%20%2F%20Qt%20%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%85&descAlignY=58&descSize=20" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -15,17 +15,20 @@
 
 ## ⚙️ 技术栈
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,qt,linux,git,github,vscode,md&perline=8" />
-  </a>
-</p>
+<p align="center">
+
+![C](https://img.shields.io/badge/C-语言-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-11%2F14-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-5.x-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-用户态编程-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-音视频编解码-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-模型推理部署-ED1C24?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-数据库-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![TCP Socket](https://img.shields.io/badge/TCP-Socket网络编程-2563EB?style=for-the-badge)
+
+</p>
 
 ---
 
@@ -69,5 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00599C,100:41CD52&section=footer" width="100%"/>
+  <img src="assets/footer.svg" width="100%"/>
 </p>
