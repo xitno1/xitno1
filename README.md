@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%2C%20I'm%20Lijing%20Qi&fontSize=44&fontColor=ffffff&color=0:41CD52,50:0EA5E9,100:00599C&animation=fadeIn&fontAlignY=36&desc=C%2B%2B%20%2F%20Qt%20%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%85&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20my%20GitHub&fontSize=44&fontColor=ffffff&color=0:41CD52,50:0EA5E9,100:00599C&animation=fadeIn&fontAlignY=36&desc=C%2B%2B%20%2F%20Qt%20%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%85&descAlignY=58&descSize=20" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -31,7 +31,7 @@
 
 ## 🚀 精选项目
 
-### 🚗 [智能行车辅助系统 · 客户端](https://github.com/xitno1/SmartCarAssist-Client) `毕业设计`
+### 🚗 [智能行车辅助系统 · 客户端](https://github.com/xitno1/SmartCarAssist-Client) `团队项目 · 负责客户端`
 
 > 基于 **YOLOv8 + ONNX Runtime + Qt** 的行车辅助客户端 —— 我负责客户端全部代码
 
